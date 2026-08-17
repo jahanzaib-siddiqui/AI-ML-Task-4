@@ -1,7 +1,7 @@
 
 ---
 
-# `progress_report.md`
+# `progressReport.md`
 
 ```markdown
 # Progress Report
